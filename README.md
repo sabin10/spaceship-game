@@ -21,3 +21,6 @@ Developer: Sabin Hantu.
 + Game is won when player reaches 512 score.
 
 ## Images
+
+[![](http://img.youtube.com/vi/V9VAFRZEazY/0.jpg)](http://www.youtube.com/watch?v=V9VAFRZEazY "")
+
