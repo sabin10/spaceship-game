@@ -19,6 +19,7 @@ Developer: Sabin Hantu.
 + Gets more challenging with time by creating more obstacles and by increasing the speed of ship.
 + Restart the game.
 + Game is won when player reaches 512 score.
++ Best game test
 
 ## Images
 
